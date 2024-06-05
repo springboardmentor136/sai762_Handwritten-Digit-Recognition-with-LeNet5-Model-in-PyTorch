@@ -1,3 +1,16 @@
-run this code in your notebook to load the dataset
 
-(X_train,y_train),(X_test,y_test) = keras.datasets.mnist.load_data()
+
+## Download the Dataset
+
+The dataset is too large to be stored directly in this repository. Please download the dataset from the following link:
+
+[Download MNIST TRAIN.CSV file](
+https://drive.google.com/file/d/1BgMkrBTeDs4CDrW1GRlQIHKa3NnWpR5U/view?usp=sharing
+)
+
+[Download MNIST TEST.CSV file](
+
+https://drive.google.com/file/d/1goxYLmxoK3jLrLDLNBc8HJhwC1dZF6kZ/view?usp=sharing
+)
+After downloading the dataset paste your datasetpath in the code
+
