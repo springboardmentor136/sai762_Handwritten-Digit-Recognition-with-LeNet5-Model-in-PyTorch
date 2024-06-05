@@ -1,0 +1,16 @@
+
+
+## Download the Dataset
+
+If you are not able to download the zip files use this links
+
+[Download MNIST TRAIN.CSV file](
+https://drive.google.com/file/d/1BgMkrBTeDs4CDrW1GRlQIHKa3NnWpR5U/view?usp=sharing
+)
+
+[Download MNIST TEST.CSV file](
+
+https://drive.google.com/file/d/1goxYLmxoK3jLrLDLNBc8HJhwC1dZF6kZ/view?usp=sharing
+)
+After downloading the dataset paste your datasetpath in the code
+
